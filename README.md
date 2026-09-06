@@ -6,10 +6,9 @@
 
 ## 1. 文件说明
 
-- `sec_plot_gui.py`：完整的图形界面程序，可独立运行。
-- `plot_sec.py`：早期命令行版本。使用 GUI 时不需要此文件。
+- `sec_plot_gui.py`：完整的图形界面程序。
 
-`sec_plot_gui.py` 仍需 Python 以及 `numpy`、`matplotlib` 两个第三方库。
+`sec_plot_gui.py` 需要 Python 以及 `numpy`、`matplotlib` 两个第三方库。
 
 ## 2. 首次安装
 
