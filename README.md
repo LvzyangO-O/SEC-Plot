@@ -22,18 +22,6 @@ py -m pip install numpy matplotlib
 
 ## 3. 启动程序
 
-打开程序所在文件夹，在 PowerShell 中运行：
-
-```powershell
-py "C:\Users\Zhiyang Lv\Documents\ChatGPT\SEC曲线作图\sec_plot_gui.py"
-```
-
-如果 `py` 命令不可用，可以改用：
-
-```powershell
-python "C:\Users\Zhiyang Lv\Documents\ChatGPT\SEC曲线作图\sec_plot_gui.py"
-```
-
 程序启动后显示两个主要区域：
 
 - 左侧：数据与绘图参数；
